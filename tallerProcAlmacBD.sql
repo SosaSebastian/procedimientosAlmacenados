@@ -1,5 +1,3 @@
-USE nba;
-
 -- Primer punto
 
 DELIMITER //
